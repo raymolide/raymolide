@@ -1,4 +1,4 @@
-### Hi there, I am Ray Molide 👋 <br>
+### 👋 Hi there, I am Ray Molide. <br>
 
 🌱 I’m currently learning Flutter and ReactJS. <br>
 ⚡ Fun fact: I work with vb.net & C#, but every day I study FLUTTER. I believe that one day I will apply everything I have studied. <br>

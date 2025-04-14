@@ -1,7 +1,12 @@
 ### 👋 Hi there, I am Ray Molide. <br>
 
-🌱 I’m currently learning Flutter and NextJS. <br>
-⚡ Fun fact: I work with vb.net & C#, but every day I study FLUTTER. I believe that one day I will apply everything I have studied. <br>
+🌱 I’m growing... open to learn things about development <br>
+
+🧠⚡ Fun fact: 💡 The first computer "bug" was an actual bug!
+In 1947, engineers working on the Harvard Mark II found a moth trapped in a relay, which was causing issues. They removed it and taped it into the logbook with the note:
+“First actual case of bug being found.”
+And that’s how the term “bug” became common in programming! 🐞 <br>
+
 💬 Ask me about: I really enjoy participating in the developer community, learning and teaching.<br>
 
 
